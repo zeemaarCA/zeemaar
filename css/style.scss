@@ -747,22 +747,6 @@ button:hover {
   transition: all 0.5s cubic-bezier(.12,.76,0,1.5);
 }
 
-.social ul li:hover {
-<<<<<<< HEAD
-  -webkit-transform: translate(110px, 0);
-  -moz-transform: translate(110px, 0);
-  -ms-transform: translate(110px, 0);
-  -o-transform: translate(110px, 0);
-  transform: translate(110px, 0);
-=======
-  // -webkit-transform: translate(110px, 0);
-  // -moz-transform: translate(110px, 0);
-  // -ms-transform: translate(110px, 0);
-  // -o-transform: translate(110px, 0);
-  // transform: translate(110px, 0);
->>>>>>> first
-  /* background: rgba(255, 255, 255, 0.5); */
-}
 
 .social ul li:hover a {
   color: #000;
@@ -775,19 +759,11 @@ button:hover {
   -ms-transform: rotate(360deg);
   -o-transform: rotate(360deg);
   transform: rotate(360deg);
-<<<<<<< HEAD
-  -webkit-transition: all 1s;
-  -moz-transition: all 1s;
-  -ms-transition: all 1s;
-  -o-transition: all 1s;
-  transition: all 1s;
-=======
   -webkit-transition: all .5s;
   -moz-transition: all .5s;
   -ms-transition: all .5s;
   -o-transition: all .5s;
   transition: all .5s;
->>>>>>> first
 }
 
 .social ul li:hover .fa-facebook-square {
